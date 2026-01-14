@@ -53,3 +53,10 @@ Attendees:
 
 Notes:
 {{cursor}}
+
+
+<img width="1280" height="800" alt="Gemini_Generated_Image_8ozepq8ozepq8oze" src="https://github.com/user-attachments/assets/33af3d92-3645-40f6-a9c7-4b6d2a681b84" />
+<img width="1280" height="800" alt="Gemini_Generated_Image_gvn4ljgvn4ljgvn4" src="https://github.com/user-attachments/assets/e113978a-2317-4396-8349-eb207a586f66" />
+<img width="1280" height="800" alt="Gemini_Generated_Image_o7yq0bo7yq0bo7yq" src="https://github.com/user-attachments/assets/cdd765fe-03cf-48e6-96ce-275a7747cb53" />
+<img width="1280" height="800" alt="Gemini_Generated_Image_zf0sznzf0sznzf0s" src="https://github.com/user-attachments/assets/6a704098-90bc-4507-89b6-86a615154c5e" />
+<img width="1280" height="800" alt="Gemini_Generated_Image_rehegrrehegrrehe" src="https://github.com/user-attachments/assets/3ce19609-41d5-49e5-a2a0-87d4303d62c4" />
